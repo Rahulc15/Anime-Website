@@ -41,7 +41,7 @@ html{
 }
 
 .nav-list li a{
-    font-family: 'Bangers', cursive;
+    font-family: 'Bangers', cursive; 
     color: white;
     text-decoration: none; /*removes underline*/
 } 
